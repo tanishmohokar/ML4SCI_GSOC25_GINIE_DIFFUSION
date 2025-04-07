@@ -1,4 +1,4 @@
-#DDPM
+# DDPM
 
 ### Model Architecture
 
